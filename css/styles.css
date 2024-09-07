@@ -8072,6 +8072,10 @@ body.is-preload .items.onload-fade-in > * > .inner {
 
 /* Items (style3) */
 
+.small-footer-text p {
+    font-size: 0.8rem; /* Adjust this rem value to make the text smaller */
+}
+
 .items.style3 {
   display: -moz-flex;
   display: -webkit-flex;
